@@ -14,3 +14,22 @@ h1 {
   font-size: 18px;
   color: white;
 }
+h2{
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
+p{
+  font-size: 14 px;
+}
+.newyork{
+  background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+.footer{
+  background-color: dimgray;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+}
